@@ -16,7 +16,7 @@ Unsupervised machine learning project that groups supermarket customers into seg
 7. **Cluster profiling:** compared segments by income, total spending, and purchase behavior
 
 ## Key Findings
-- Customers split into 4 segments, with two higher-income groups (~$71-73K average) and two lower-income groups (~$37-40K average)
+- Customers split into 4 segments, with two higher-income groups (~$71-73K average) and two  lower-income groups (~$37-40K average)
 - Higher-income segments show more web purchases and fewer deal purchases than lower-income ones
 
 ## Tech Stack
